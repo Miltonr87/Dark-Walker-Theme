@@ -1,11 +1,16 @@
 ### About
 
+![Logo](https://github.com/Miltonr87/Dark-Walker-Theme/blob/master/JWlogo.jpg)
+
 Dark theme inspired by the colors of the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!
 
 *Major Colors: Black, Yellow (gold) and Blue.*
 
 OBS.: Theme with focus on the javascript language
 
+## Screenshot
+
+![Screen Shot](https://github.com/Miltonr87/Dark-Walker-Theme/blob/master/screenshot.png)
 
 ## Installation
 
@@ -13,7 +18,7 @@ OBS.: Theme with focus on the javascript language
 1. Search for Dark Walker
 1. Click Install
 1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > Color Theme ＞ Dark Walker Theme
+1. Select the Manage Config (bottom left) > Color Theme ＞ Dark Walker
 
 ## Issues & Suggestions
 
