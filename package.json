@@ -1,0 +1,35 @@
+{
+    "name": "dark-walker",
+    "displayName": "Dark Walker",
+    "description": "Dark theme inspired by the colors of the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "icon": "images/icon/logo.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "black",
+        "gold",
+        "sport",
+        "soccer",
+        "red"
+    ],
+    "publisher": "Miltonr87",
+    "repository": {
+        "type": "git",
+        "url": "#"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Walker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Walker-color-theme.json"
+            }
+        ]
+    }
+}
