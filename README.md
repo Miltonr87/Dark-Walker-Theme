@@ -1,4 +1,4 @@
-[![Dark Walker Theme](#)
+[![Dark Walker Theme](https://github.com/Miltonr87/Dark-Walker-Theme/blob/master/screenshot.png)
 
 ### About
 
@@ -21,5 +21,5 @@ OBS.: Theme with focus on the javascript language
 
 ## Issues & Suggestions
 
-For any issues or suggestions, please use [GitHub issues](#).
+For any issues or suggestions, please use [GitHub issues](https://github.com/Miltonr87/Dark-Walker-Theme/issues).
 
