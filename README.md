@@ -2,7 +2,7 @@
 
 ![Logo](https://github.com/Miltonr87/Dark-Walker-Theme/blob/master/JWlogo.jpg)
 
-Dark theme inspired by the colors of the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!
+Dark theme inspired by the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!
 
 *Modified from gruvbox*
 
