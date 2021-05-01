@@ -6,8 +6,6 @@ Dark theme inspired by the colors of the famous scotch whisky: Johnnie Walker. A
 
 *Modified from gruvbox and launchbase themes*
 
-OBS.: Theme with focus on the javascript language
-
 ## Screenshot
 
 ![Screen Shot](https://github.com/Miltonr87/Dark-Walker-Theme/blob/master/screenshot.png)
