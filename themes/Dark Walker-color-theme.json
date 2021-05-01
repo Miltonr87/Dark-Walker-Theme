@@ -190,19 +190,19 @@
         {
             "scope": "string",
             "settings": {
-                "foreground": "#B8BB26"
+                "foreground": "#f7994c"
             }
         },
         {
             "scope": "string.tag",
             "settings": {
-                "foreground": "#B8BB26"
+                "foreground": "#8c7ae6"
             }
         },
         {
             "scope": "string.value",
             "settings": {
-                "foreground": "#B8BB26"
+                "foreground": "#8c7ae6"
             }
         },
         {
