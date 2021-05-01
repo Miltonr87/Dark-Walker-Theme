@@ -1,8 +1,8 @@
 {
     "name": "dark-walker",
     "displayName": "Dark Walker",
-    "description": "Dark theme inspired by the colors of the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!",
-    "version": "0.0.2",
+    "description": "Dark theme inspired by the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.55.0"
     },
