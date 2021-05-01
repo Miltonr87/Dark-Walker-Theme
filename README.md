@@ -4,7 +4,7 @@
 
 Dark theme inspired by the colors of the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!
 
-*Major Colors: Black, Yellow (gold) and Blue.*
+*Modified from gruvbox and launchbase themes*
 
 OBS.: Theme with focus on the javascript language
 
