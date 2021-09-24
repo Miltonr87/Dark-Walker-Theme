@@ -4,6 +4,7 @@
 	"colors": {
         "activityBar.background": "#000000",
         "activityBar.foreground": "#f2e5bc",
+        "activityBar.border": "#222222",
         "activityBarBadge.background": "#d79921",
         "activityBarBadge.foreground": "#f9f5d7",
         "badge.background": "#458588",
@@ -52,7 +53,7 @@
         "statusBar.foreground": "#f2e5bc",
         "statusBar.noFolderBackground": "#000000",
         "tab.activeBackground": "#000000",
-        "tab.activeBorder": "#444444",
+        "tab.activeBorder": "#d79921",
         "tab.activeForeground": "#f2e5bc",
         "tab.inactiveBackground": "#000000",
         "terminal.ansiBlack": "#1d2021",
