@@ -1,37 +1,47 @@
 {
-    "name": "dark-walker",
-    "displayName": "Dark Walker",
-    "description": "Dark theme inspired by the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!",
-    "version": "2.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "icon": "images/icon/logo.png",
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "dark",
-        "black",
-        "gold",
-        "contrast",
-        "johnny walker",
-        "johnny",
-        "red",
-        "walker"
-    ],
-    "publisher": "Miltonr87",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Miltonr87/Dark-Walker-Theme"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark Walker",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark Walker-color-theme.json"
-            }
-        ]
-    }
+	"name": "dark-walker",
+	"displayName": "Dark Walker",
+	"description": "Dark theme inspired by the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!",
+	"version": "2.0.3",
+	"engines": {
+		"vscode": "^1.66.0"
+	},
+	"icon": "images/icon/logo.png",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"dark",
+		"black",
+		"gold",
+		"contrast",
+		"johnny walker",
+		"johnny",
+		"red",
+		"walker"
+	],
+	"publisher": "Miltonr87",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Miltonr87/Dark-Walker-Theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Walker",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Walker-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9c13e0f6-b0f2-4bae-8ad1-ea970f62fc1c",
+		"publisherId": "533a8a1b-b5f8-4d8f-8168-4fa1b62a1dc1",
+		"publisherDisplayName": "Miltonr87",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1648792918694
+	}
 }

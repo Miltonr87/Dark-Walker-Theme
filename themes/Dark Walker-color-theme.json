@@ -23,6 +23,7 @@
         "editor.selectionHighlightBackground": "#ffffbe55",
         "editor.wordHighlightBackground": "#ffffbe55",
         "editor.wordHighlightStrongBackground": "#ffffbe55",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#FF2C6D",
         "editorCursor.foreground": "#999999",
         "editorGroupHeader.tabsBackground": "#000000",
         "editorWidget.background": "#272836",
