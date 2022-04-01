@@ -49,7 +49,7 @@
         "sideBar.foreground": "#fbf1c7",
         "sideBarSectionHeader.background": "#000000",
         "statusBar.background": "#000000",
-        "statusBar.debuggingBackground": "#000000",
+        "statusBar.debuggingBackground": "#f42c3e",
         "statusBar.foreground": "#f2e5bc",
         "statusBar.noFolderBackground": "#000000",
         "tab.activeBackground": "#000000",
