@@ -10,9 +10,6 @@ Dark theme inspired by the famous scotch whisky: Johnnie Walker. All colors in h
 
 [![Darl Walker Promo](https://res.cloudinary.com/marcomontalbano/image/upload/v1632683557/video_to_markdown/images/youtube--8owVFEW9_ls-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=8owVFEW9_ls "Darl Walker Promo")
 
-## Screenshot
-
-![Screen Shot](https://github.com/Miltonr87/Dark-Walker-Theme/blob/master/screenshot.png)
 
 ## Installation
 
