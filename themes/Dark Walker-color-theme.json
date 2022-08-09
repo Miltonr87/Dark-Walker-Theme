@@ -228,7 +228,7 @@
             }
         },
         {
-            "name": "JavaScript ternary operator inside Template String",
+            "name": "Template String nesting with ternary operator (Javascript)",
             "scope": [
                 "punctuation.definition.template-expression.begin.js",
                 "punctuation.definition.template-expression.begin.ts",
@@ -262,16 +262,6 @@
             "scope": "object",
             "settings": {
                 "foreground": "#EBDBB2"
-            }
-        },
-        {
-            "name": "Object keys for ReactJS and Typescript",
-            "scope": [
-                "meta.object-literal.key",
-                "meta.object-literal.key entity.name.function"
-            ],
-            "settings": {
-                "foreground": "#FD951F"
             }
         },
         {

@@ -2,7 +2,7 @@
 	"name": "dark-walker",
 	"displayName": "Dark Walker",
 	"description": "Dark theme inspired by the famous scotch whisky. All colors in high and elegant contrast. Keep coding!",
-	"version": "3.0.0",
+	"version": "3.0.2",
 	"engines": {
 		"vscode": "^1.70.0"
 	},
@@ -18,7 +18,7 @@
 		"johnny walker",
 		"johnny",
 		"red",
-        "blue",
+		"blue",
 		"walker"
 	],
 	"publisher": "Miltonr87",
@@ -43,6 +43,7 @@
 		"updated": false,
 		"isPreReleaseVersion": false,
 		"preRelease": false,
-		"installedTimestamp": 1648792918694
+		"installedTimestamp": 1660050751387,
+		"isApplicationScoped": false
 	}
 }
