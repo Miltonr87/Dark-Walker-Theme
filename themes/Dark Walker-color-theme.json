@@ -806,6 +806,8 @@
         },
         {
             "scope": [
+                "entity.name.tag.jsx",
+                "entity.name.tag.js",
                 "text.html entity.name.tag",
                 "text.html punctuation.tag"
             ],
