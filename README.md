@@ -1,18 +1,37 @@
-### About
+# 🥃 Dark Walker — VSCode Theme
 
-![Logo](https://github.com/Miltonr87/Dark-Walker-Theme/blob/master/JWlogo.jpg)
+![React Preview](./react.png)
 
-Dark theme inspired by the famous scotch whisky: Johnnie Walker. All colors in high and elegant contrast. Keep coding!
+> **Dark theme inspired by the elegance of Johnnie Walker whisky.**  
+> A refined dark experience with high contrast, warm tones, and bold JSX highlighting — designed for developers who appreciate both style and clarity.
 
-## Installation
+---
 
-1. Open the extensions sidebar on Visual Studio Code
-1. Search for Dark Walker
-1. Click Install
-1. Click Reload to reload your editor
-1. Select the Manage Config (bottom left) > Color Theme ＞ Dark Walker
+## ✨ Features
 
-## Issues & Suggestions
+- 🖤 **Rich dark palette** with balanced contrast for long coding sessions
+- 💛 **Golden and amber accents** inspired by whisky hues
+- 🧩 **Bold JSX tags** for improved readability in React and modern frameworks
+- 🧠 Carefully tuned for JavaScript, TypeScript, HTML, CSS, and Markdown
+- 🎨 Looks stunning in both light-controlled and dark environments
 
-For any issues or suggestions, please use [GitHub issues](https://github.com/Miltonr87/Dark-Walker-Theme/issues).
+---
 
+## 📦 Installation
+
+1. Open **Visual Studio Code**
+2. Go to **Extensions** (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+3. Search for **Dark Walker**
+4. Click **Install**
+5. Open the Command Palette (`Ctrl+K Ctrl+T`) → Choose **Dark Walker**
+
+---
+
+## 🧰 Manual Install (VSIX)
+
+If you prefer a local install:
+
+```bash
+vsce package
+code --install-extension dark-walker-<version>.vsix
+```
