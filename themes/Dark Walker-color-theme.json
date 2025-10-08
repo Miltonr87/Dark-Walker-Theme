@@ -808,8 +808,12 @@
             "scope": [
                 "entity.name.tag.jsx",
                 "entity.name.tag.js",
+                "entity.name.tag.tsx",
+                "entity.name.tag.ts",
                 "text.html entity.name.tag",
-                "text.html punctuation.tag"
+                "text.html punctuation.tag",
+                "source.tsx entity.name.tag",
+                "source.jsx entity.name.tag"
             ],
             "settings": {
                 "foreground": "#8EC07C",
