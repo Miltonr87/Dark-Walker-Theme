@@ -1,6 +1,6 @@
 # 🥃 Dark Walker — VSCode Theme
 
-![React Preview](./images/examples/preview.png)
+![React Preview](./ts.png)
 
 > **Dark theme inspired by the elegance of a famous scotch whisky.**  
 > A refined dark experience with high contrast experience and sophistication.
