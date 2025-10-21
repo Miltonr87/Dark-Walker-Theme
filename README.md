@@ -3,7 +3,7 @@
 ![React Preview](./ts.png)
 
 > **Dark theme inspired by the elegance of a famous scotch whisky.**  
-> A refined dark experience with high contrast experience and sophistication.
+> A refined dark experience with high contrast and sophistication.
 
 ---
 
