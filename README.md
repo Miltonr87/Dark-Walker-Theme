@@ -1,19 +1,18 @@
 # 🥃 Dark Walker — VSCode Theme
 
-![React Preview](./react.png)
+![React Preview](./images/examples/preview.png)
 
-> **Dark theme inspired by the elegance of Johnnie Walker whisky.**  
-> A refined dark experience with high contrast, warm tones, and bold JSX highlighting — designed for developers who appreciate both style and clarity.
+> **Dark theme inspired by the elegance of a famous scotch whisky.**  
+> A refined dark experience with high contrast experience and sophistication.
 
 ---
 
 ## ✨ Features
 
-- 🖤 **Rich dark palette** with balanced contrast for long coding sessions
-- 💛 **Golden and amber accents** inspired by whisky hues
-- 🧩 **Bold JSX tags** for improved readability in React and modern frameworks
-- 🧠 Carefully tuned for JavaScript, TypeScript, HTML, CSS, and Markdown
-- 🎨 Looks stunning in both light-controlled and dark environments
+- 🖤 **Rich dark palette** with balanced contrast for long coding sessions.
+- 💛 **Gold, Red, Blue, Green and others highlights** inspired by the iconic whisky labels.
+- 👨‍💻 **Carefully tuned** for JavaScript, TypeScript, HTML, CSS, and Markdown languages.
+- 🎨 **Color-safe design:** the palette was meticulously calibrated to reduce color confusion and ensure visual harmony, delivering both accessibility and sophistication.
 
 ---
 
