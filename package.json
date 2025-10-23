@@ -2,11 +2,11 @@
 	"name": "dark-walker",
 	"displayName": "Dark Walker",
 	"description": "Dark theme inspired by the famous scotch whisky. All colors in high and elegant contrast. Keep coding!",
-	"version": "4.0.3",
+	"version": "4.1.1",
 	"engines": {
 		"vscode": "^1.70.0"
 	},
-	"icon": "images/icon/logo.png",
+	"icon": "images/icon/icon.png",
 	"categories": [
 		"Themes"
 	],

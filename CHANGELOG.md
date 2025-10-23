@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "dark-walker" extension will be documented in this file.
+## [4.1.1]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Updated
 
-## [Unreleased]
-
-- Initial release
+- **README.md:** added new icon identity and visual description.
+- **Design Principles:** updated color hierarchy and terminology.
