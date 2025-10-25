@@ -1,6 +1,6 @@
 # 🦇 Dark Walker
 
-![Banner Preview](./images/banner/dark-walker.png)
+![Banner Preview](./preview.png)
 
 > **Dark theme inspired by the elegance of a famous scotch whisky.**  
 > A refined dark experience with high contrast and sophistication. Keep coding!
